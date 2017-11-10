@@ -18,27 +18,30 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
-
+  Food Aggregator
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
-
+  For Foodees by Foodees.
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
-
+  Using the relatively new Spoonacular, enter ingredients and recieve lists of potential recipes. Once you have built up a good amount of your favorite ingredients (as well as ones you're allergic to) use our app to find recipes or products that fit your tastes. Once you have favorite recipes as well, look up others that are similar, and save them for later.  
 ## Problem ##
   > Describe the problem your product solves.
-
+  Finding a favorite dish can be amazing, however monotinous if that becomes your normal meal. Finding similar recipes can be frustrating, especially if you are allergic to specific ingredients.
 ## Solution ##
   > Describe how your product elegantly solves the problem.
-
+  This service allows you add ingredients and meals to your favorites, and then query spoonacular for recommendations. Once you have a good list of favorites, use this same service to find similar meals, as well as similar food products, or similar restaurants.
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  Recipe management for the 21st century.
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
-
+  Enter some ingredients or dishes and watch as the Food Aggregator serves you up recommendations for dishes and food products.
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  As a person with picky tastes, and my fair share of allergies, Food Aggregator was the perfect app to help me find dishes to make as home, as well as products to buy that fit my preferences and that wouldn't harm me.
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+  We waste up to 40% of our food in America. Lack of interest in said food is undoubtedly a factor in this staggering statistic. 

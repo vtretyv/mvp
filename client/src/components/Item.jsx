@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDom from 'react-dom';
 import $ from 'jquery';
 
-class AddItem extends React.Component {
+class Item extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -12,11 +12,8 @@ class AddItem extends React.Component {
   render(){
     return (
       <div> 
-      AddItem Holder
+      Item Holder
       </div>
-      
-      
-      
-      )
+    )
   }
 }

@@ -1,8 +1,8 @@
 import React from 'react';
-import ReactDom from 'react-dom';
+import ReactDOM from 'react-dom';
 import $ from 'jquery';//Jquery or axios for requests
 import Lister from './components/Lister.jsx';
-import AddItem from './components/AddItem.jsx'
+import Item from './components/Item.jsx'
 class App extends React.Component {
   constructor(props) {
     super(props);
@@ -24,3 +24,5 @@ class App extends React.Component {
     )
   }
 }
+
+ReactDOM(<App/>, document.getElementById('app'));
